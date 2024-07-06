@@ -1,0 +1,2 @@
+TOKEN = '6759903358:AAGAXSk_BF-G6IafAumo2YnHz1CH7fyB86c'
+DATABASE = 'projects.db'
